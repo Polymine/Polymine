@@ -65,6 +65,8 @@ Polymine combines the **security** and **fairness** of PoW with the **energy eff
 
 ## 💡 **How to Participate**
 
+Use the [Polyminer](https://github.com/Polymine/Polyminer)
+
 ### Mining
 1. Interact with the `mine()` function in the smart contract.
 2. Submit a valid nonce to earn 80% of the block reward.
