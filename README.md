@@ -1,3 +1,4 @@
+
 # Polymine (POLM) - First Hybrid POW/POS Smart Contract Token on Polygon
 
 Welcome to **Polymine (POLM)**, a groundbreaking token that merges **Proof of Work (PoW)** and **Proof of Stake (PoS)** mechanisms into a single smart contract token, leveraging the high-speed, low-cost Polygon blockchain. Polymine introduces an innovative dual-mining and staking model that rewards both miners and stakers, creating a balanced and decentralized ecosystem.
