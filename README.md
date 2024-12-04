@@ -92,7 +92,7 @@ Polymine isn't just a token—it's a movement. Be part of the revolution today!
 ## 🔗 **Resources**
 - **Contract Address**: `0xb745b960a244157029eDe392956a299ddf3F90b3`
 - **Token Explorer**: [PolygonScan](https://polygonscan.com/token/0xb745b960a244157029eDe392956a299ddf3F90b3)
-- **Community**: Join our [Discord]() for discussions and updates.
+- **Community**: Join our [Discord](https://discord.gg/cyeMmGVC) for discussions and updates.
 
 ---
 
